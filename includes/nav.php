@@ -18,6 +18,7 @@
             <div class="dropdown-menu dropdown-menu">
                 <a href="index.php" class="dropdown-item" type="button">Home</a>
                 <a href="session_cart.php" class="dropdown-item" type="button">Shop</a>
+                <a href="contacts.php" class="dropdown-item" type="button">Contacts</a>
             </div>
             </div>
             <a class="navbar-brand mr-5 logo" href="../public/index.php">Nocturne Scents</a>

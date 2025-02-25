@@ -62,7 +62,7 @@
         </div>
 
         <div class="row pt-5 d-flex justify-content-center">
-            <input type="submit" value="Log in">
+            <input type="submit" value="Log in" class="btn btn-dark">
         </div>
 
     </form>
